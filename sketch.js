@@ -128,5 +128,5 @@ function draw() {
   for (var i = 0; i < particles.length; i++){
     particles[i].display();
   }
-  drawSprites();
+  
 }
